@@ -11,3 +11,6 @@ These issues pose significant challenges for both annotation and detection.
 
 
 ![image](https://github.com/user-attachments/assets/533a2005-24ec-4e39-aaf1-a2b303b33c44)
+
+The left image showcases manually annotated bounding boxes, while the middle image displays the inference results from our model (embedding AutoSelector into the YOLOv7 object detection model). 
+The image on the right illustrates the visualization of applying the LEDNet model for low-light enhancement. When using the low-light enhanced image (right) as a reference, it becomes apparent that the manual annotations have numerous omissions (left, with red ellipses highlighting the missed bounding boxes and categories). In contrast, our model demonstrates the capability to accurately annotate them.
