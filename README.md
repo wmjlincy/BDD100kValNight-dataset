@@ -5,7 +5,7 @@ Mislabeling, such as confusing "Truck" with "Car" or misidentifying signs, is co
 
 The "Sign" category is often missed or mislabeled due to unclear text, and bounding box placement for "Light" is inconsistent, especially for distant lights. 
 
-Many target boxes in the nighttime dataset are hard to annotate manually or with models, particularly in complex scenes with pedestrians and vehicles, as shown in Figure 9. 
+Many target boxes in the nighttime dataset are hard to annotate manually or with models, particularly in complex scenes with pedestrians and vehicles, as shown in Figure below. 
 
 These issues pose significant challenges for both annotation and detection.
 
