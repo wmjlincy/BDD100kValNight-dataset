@@ -1,4 +1,4 @@
-# BDD100kValNight-dataset
+# BDD100kValNight+
 We analyzed the nighttime image labels in BDD100k's validation set and found that low light conditions lead to frequent label omissions and errors, impacting model precision. 
 
 Mislabeling, such as confusing "Truck" with "Car" or misidentifying signs, is common. 
@@ -10,5 +10,4 @@ Many target boxes in the nighttime dataset are hard to annotate manually or with
 These issues pose significant challenges for both annotation and detection.
 
 
-![Uploading f8fd74881f00f321107a7433ff1bae9.jpg…]()
-
+![image](https://github.com/user-attachments/assets/533a2005-24ec-4e39-aaf1-a2b303b33c44)
